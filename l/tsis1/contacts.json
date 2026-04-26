@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Bob Brown",
+        "email": "bob@mail.com",
+        "birthday": "1992-03-03",
+        "group": "Friend",
+        "phone": "555123456",
+        "type": "work"
+    },
+    {
+        "name": "Chris Martin",
+        "email": "chris@yahoo.com",
+        "birthday": "1993-03-03",
+        "group": "Friend",
+        "phone": "777888999",
+        "type": "mobile"
+    },
+    {
+        "name": "Bob Brown",
+        "email": "bob@mail.com",
+        "birthday": "2000-01-15",
+        "group": "Friend",
+        "phone": "555123456",
+        "type": "work"
+    },
+    {
+        "name": "Chris Martin",
+        "email": "chris@yahoo.com",
+        "birthday": "1987-06-09",
+        "group": "Friend",
+        "phone": "777888999",
+        "type": "mobile"
+    },
+    {
+        "name": "Alice Johnson",
+        "email": "alice@gmail.com",
+        "birthday": "1991-01-01",
+        "group": "Work",
+        "phone": "7777777777",
+        "type": "mobile"
+    }
+]
